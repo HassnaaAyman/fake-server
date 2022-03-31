@@ -658,16 +658,6 @@
           "orderItemType": "line_item"
         }
       ]
-    },
-    {
-      "pagination": {
-        "total": 17,
-        "count": 10,
-        "per_page": 10,
-        "current_page": 1,
-        "total_pages": 2,
-        "has_more": true
-      }
     }
   ]
 }
