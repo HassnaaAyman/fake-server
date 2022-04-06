@@ -659,5 +659,23 @@
         }
       ]
     }
+  ],
+  "statuses": [
+    "delivered",
+    "shipped",
+    "completed",
+    "cancelled",
+    "exeption",
+    "returned",
+    "out for delivery",
+    "rejected",
+    "trach",
+    "preparing to return",
+    "Wh plan sent",
+    "request to refund",
+    "pending wh plan",
+    "pending",
+    "on hold",
+    "queued"
   ]
 }
