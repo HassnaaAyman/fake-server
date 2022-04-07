@@ -625,21 +625,69 @@
     }
   ],
   "statuses": [
-    "delivered",
-    "shipped",
-    "completed",
-    "cancelled",
-    "exeption",
-    "returned",
-    "out for delivery",
-    "rejected",
-    "trach",
-    "preparing to return",
-    "Wh plan sent",
-    "request to refund",
-    "pending wh plan",
-    "pending",
-    "on hold",
-    "queued"
+    {
+      "text": "Delivered",
+      "value": "delivered"
+    },
+    {
+      "text": "Shipped",
+      "value": "shipped"
+    },
+    {
+      "text": "Completed",
+      "value": "completed"
+    },
+    {
+      "text": "Cancelled",
+      "value": "cancelled"
+    },
+    {
+      "text": "Exeption",
+      "value": "exeption"
+    },
+    {
+      "text": "returned",
+      "value": "returned"
+    },
+    {
+      "text": "Out For Delivery",
+      "value": "out for delivery"
+    },
+    {
+      "text": "Rejected",
+      "value": "rejected"
+    },
+    {
+      "text": "Trach",
+      "value": "trach"
+    },
+    {
+      "text": "Preparing To Return",
+      "value": "preparing to return"
+    },
+    {
+      "text": "Wh Plan Sent",
+      "value": "Wh plan sent"
+    },
+    {
+      "text": "Request To Refund",
+      "value": "request to refund"
+    },
+    {
+      "text": "Pending Wh Plan",
+      "value": "pending wh plan"
+    },
+    {
+      "text": "Pending",
+      "value": "pending"
+    },
+    {
+      "text": "On Hold",
+      "value": "on hold"
+    },
+    {
+      "text": "Queued",
+      "value": "queued"
+    }
   ]
 }
