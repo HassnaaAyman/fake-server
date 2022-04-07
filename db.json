@@ -1,42 +1,6 @@
 {
   "orders": [
     {
-      "id": 10558,
-      "orderId": 10558,
-      "dropId": 2921,
-      "region": "Alex",
-      "area": "Alex",
-      "shippingCompany": "brimore",
-      "status": "shipped",
-      "comment": "Order status changed from Queued to Processing.",
-      "lastStatus": "2022-01-04 20:34:20",
-      "creationDate": "2021-11-13 20:01:47",
-      "dropShipperUserID": "6462",
-      "dropShipperName": "شروق محمد إسماعيل",
-      "dropShipperEmail": "test@gmail.com",
-      "dropShipperMobile": "324234324",
-      "consumerName": "محمد موسي",
-      "consumerMobile1": "324324234",
-      "consumerMobile2": "",
-      "address": "الجيزه",
-      "storeName": "الشروق",
-      "shippingCost": "0",
-      "orderTotal": "135",
-      "products": [
-        {
-          "productId": "5150",
-          "productName": "حامل الموبايل لمراية السيارة",
-          "quantity": "1",
-          "sku": "59443",
-          "lineId": "123235",
-          "variation": "0",
-          "sellingPrice": "135",
-          "egularPrice": "90",
-          "orderItemType": "line_item"
-        }
-      ]
-    },
-    {
       "id": 10559,
       "orderId": 10559,
       "dropId": 2922,
